@@ -1,6 +1,6 @@
 # Rick and Morty Test
 
-A simple app using the [Rick and Morty API](https://rickandmortyapi.com) written in SwiftUI to display the characters, locations and episodes from the [show](https://en.wikipedia.org/wiki/Rick_and_Morty):
+A simple app using the [Rick and Morty API](https://rickandmortyapi.com) written in SwiftUI to display the characters, locations and episodes.
 
 
 The app is built using the MVVM architecture with clean architecture, presenting the following key features:
