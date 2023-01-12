@@ -1,18 +1,18 @@
 # Rick and Morty Test
 
-A simple app using the [Rick and Morty API](https://rickandmortyapi.com) written in SwiftUI to display the characters, locations and episodes.
+Una app simple que utiliza la API de Rick and Morty escrita en SwiftUI para mostrar los personajes, las ubicaciones y los episodios.
 
+La aplicación está construida utilizando la arquitectura MVVM con una arquitectura limpia y presenta las siguientes características clave:
 
-The app is built using the MVVM architecture with clean architecture, presenting the following key features:
-- Usage of async/await
-- Decoupled presentation, domain and data layers
-- All the features/screens are created inside their corresponding module using SPM (Swift Package Manager)
+- Uso de async/await
+- Capas desacopladas de presentación, dominio y datos
+- Todas las características/pantallas se crean dentro de su módulo correspondiente usando SPM (Swift Package Manager)
 
-## Requirements
+## Requerimientos
 
 - iOS 16.0+ (Swift 5.7)
 - Xcode 14.1
 
-## Usage
-1. Clone the repo
-2. Open the workspace file `RickAndMorty.xcodeproj` and run the app
+## Instrucciones
+1. Clonar el repo
+2. Abrir el archivo `RickAndMorty.xcodeproj` y ejecutar la app.
